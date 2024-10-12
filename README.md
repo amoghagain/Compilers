@@ -53,15 +53,17 @@ It gives an invalid token as the length is greater to parse.
 
 3. If we add a word with length < 3:
 
-4. If we add a number
+![img alt](https://github.com/amoghagain/Compilers/blob/1a83c872430b329ef5df256a8516e87d2e7b6d3d/comp2.PNG)
 
-5. If we remove fullstop
+5. If we add a number
 
-6. If 1st word isn't capital
+6. If we remove fullstop
 
-7. If we add a quoted word
+7. If 1st word isn't capital
 
-8. If we include multiple punctuation marks(already multiple like 2 hyphens and two commas)
+8. If we add a quoted word
+
+9. If we include multiple punctuation marks(already multiple like 2 hyphens and two commas)
 
 
 It parses the commas first.
