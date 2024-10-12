@@ -63,7 +63,9 @@ It gives an invalid token as the length is greater to parse.
 
 ![img alt](https://github.com/amoghagain/Compilers/blob/fe4b8970ad76c007dfbf7a1314e6e19350273315/comp7.PNG)
 
-7. If 1st word isn't capital
+6. If 1st word isn't capital
+
+![img alt](https://github.com/amoghagain/Compilers/blob/7eabf8d862a22099ca43c566ccd597e9900fb8fc/comp6.PNG)
 
 8. If we add a quoted word
 
