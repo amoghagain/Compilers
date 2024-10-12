@@ -43,20 +43,22 @@ The features can be accessed by running the above code in you respective termina
 1. A string:
  It parses through every token and analyzes it syntactically and gives the accepted string along with the Abstract Syntax Tree(AST).
 
-2. If we add a word of length > 26:
+![img alt](https://github.com/amoghagain/Compilers/blob/cfb4bdb7c0da0a8093c763badff2ad180a25db70/comp1.PNG)
+
+3. If we add a word of length > 26:
 It gives an invalid token as the length is greater to parse.
 
-3. If we add a word with length < 3:
+4. If we add a word with length < 3:
 
-4. If we add a number
+5. If we add a number
 
-5. If we remove fullstop
+6. If we remove fullstop
 
-6. If 1st word isn't capital
+7. If 1st word isn't capital
 
-7. If we add a quoted word
+8. If we add a quoted word
 
-8. If we include multiple punctuation marks(already multiple like 2 hyphens and two commas)
+9. If we include multiple punctuation marks(already multiple like 2 hyphens and two commas)
 
 
 It parses the commas first.
