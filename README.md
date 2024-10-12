@@ -39,44 +39,44 @@ The parser constructs an Abstract Syntax Tree (AST), a tree-like structure that 
 
 The features can be accessed by running the above code in you respective terminals.
 
-**Tests:**
-1. A string:
+### Tests:
+**1. A string:**
  It parses through every token and analyzes it syntactically and gives the accepted string along with the Abstract Syntax Tree(AST).
 
 ![img alt](https://github.com/amoghagain/Compilers/blob/cfb4bdb7c0da0a8093c763badff2ad180a25db70/comp1.PNG)
 
-2. If we add a word of length > 26:
+**2. If we add a word of length > 26:**
 It gives an invalid token as the length is greater to parse.
 
 ![img alt](https://github.com/amoghagain/Compilers/blob/f407776c212af539263f3787b51da287e7c56c32/comp5.PNG)
 
 
-3. If we add a word with length < 3:
+**3. If we add a word with length < 3:**
 
 ![img alt](https://github.com/amoghagain/Compilers/blob/1a83c872430b329ef5df256a8516e87d2e7b6d3d/comp2.PNG)
 
-4. If we add a number:
+**4. If we add a number:**
 
 ![img alt](https://github.com/amoghagain/Compilers/blob/c05d9616e2b4558213ec2fb82e9d452f9a5ecdbb/comp3.PNG)
 
-5. If we remove fullstop
+**5. If we remove fullstop:**
 
 ![img alt](https://github.com/amoghagain/Compilers/blob/fe4b8970ad76c007dfbf7a1314e6e19350273315/comp7.PNG)
 
-6. If 1st word isn't capital
+**6. If 1st word isn't capital:**
 
 ![img alt](https://github.com/amoghagain/Compilers/blob/7eabf8d862a22099ca43c566ccd597e9900fb8fc/comp6.PNG)
 
-7. If we add a quoted word
+**7. If we add a quoted word:**
 
 ![img alt](https://github.com/amoghagain/Compilers/blob/13ac9d4fa581fed5b917278c2f8b107b85e2de4e/comp4.PNG)
 
-8. If we include multiple punctuation marks(already multiple like 2 hyphens and two commas)
+**8. If we include multiple punctuation marks(already multiple like 2 hyphens and two commas):**
 
 ![img alt](https://github.com/amoghagain/Compilers/blob/e80dd63b28131186f13012ce79b3fcb3da1fa45a/comp9.PNG)
 
 It parses the commas first.
 
-9. If we have words or strings after fullstops.
+**9. If we have words or strings after fullstops:**
 
 1[img alt](https://github.com/amoghagain/Compilers/blob/245f0d511a3e577beb62d8e0647d7c5b727cdb1d/comp10.PNG)
