@@ -69,7 +69,7 @@ It gives an invalid token as the length is greater to parse.
 
 7. If we add a quoted word
 
-1[img alt](https://github.com/amoghagain/Compilers/blob/13ac9d4fa581fed5b917278c2f8b107b85e2de4e/comp4.PNG)
+![img alt](https://github.com/amoghagain/Compilers/blob/13ac9d4fa581fed5b917278c2f8b107b85e2de4e/comp4.PNG)
 
 9. If we include multiple punctuation marks(already multiple like 2 hyphens and two commas)
 
