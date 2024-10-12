@@ -45,8 +45,11 @@ The features can be accessed by running the above code in you respective termina
 
 ![img alt](https://github.com/amoghagain/Compilers/blob/cfb4bdb7c0da0a8093c763badff2ad180a25db70/comp1.PNG)
 
-3. If we add a word of length > 26:
+2. If we add a word of length > 26:
 It gives an invalid token as the length is greater to parse.
+
+1[img alt](https://github.com/amoghagain/Compilers/blob/f407776c212af539263f3787b51da287e7c56c32/comp5.PNG)
+
 
 4. If we add a word with length < 3:
 
