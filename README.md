@@ -59,7 +59,9 @@ It gives an invalid token as the length is greater to parse.
 
 ![img alt](https://github.com/amoghagain/Compilers/blob/c05d9616e2b4558213ec2fb82e9d452f9a5ecdbb/comp3.PNG)
 
-6. If we remove fullstop
+5. If we remove fullstop
+
+![img alt](https://github.com/amoghagain/Compilers/blob/fe4b8970ad76c007dfbf7a1314e6e19350273315/comp7.PNG)
 
 7. If 1st word isn't capital
 
