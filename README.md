@@ -79,4 +79,4 @@ It parses the commas first.
 
 **9. If we have words or strings after fullstops:**
 
-1[img alt](https://github.com/amoghagain/Compilers/blob/245f0d511a3e577beb62d8e0647d7c5b727cdb1d/comp10.PNG)
+![img alt](https://github.com/amoghagain/Compilers/blob/245f0d511a3e577beb62d8e0647d7c5b727cdb1d/comp10.PNG)
