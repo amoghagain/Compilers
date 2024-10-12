@@ -55,7 +55,9 @@ It gives an invalid token as the length is greater to parse.
 
 ![img alt](https://github.com/amoghagain/Compilers/blob/1a83c872430b329ef5df256a8516e87d2e7b6d3d/comp2.PNG)
 
-5. If we add a number
+4. If we add a number:
+
+![img alt](https://github.com/amoghagain/Compilers/blob/c05d9616e2b4558213ec2fb82e9d452f9a5ecdbb/comp3.PNG)
 
 6. If we remove fullstop
 
