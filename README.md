@@ -71,8 +71,9 @@ It gives an invalid token as the length is greater to parse.
 
 ![img alt](https://github.com/amoghagain/Compilers/blob/13ac9d4fa581fed5b917278c2f8b107b85e2de4e/comp4.PNG)
 
-9. If we include multiple punctuation marks(already multiple like 2 hyphens and two commas)
+8. If we include multiple punctuation marks(already multiple like 2 hyphens and two commas)
 
+![img alt](https://github.com/amoghagain/Compilers/blob/e80dd63b28131186f13012ce79b3fcb3da1fa45a/comp9.PNG)
 
 It parses the commas first.
 
